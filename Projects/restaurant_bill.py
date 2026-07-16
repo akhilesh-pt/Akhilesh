@@ -4,7 +4,7 @@ drinks_bill = int(input("Enter drinks bill: "))
 dessert_bill = int(input("Enter dessert bill: "))
 total_bill = food_bill + drinks_bill + dessert_bill
 
-print("Customer Nmae : ",customer_name)
+print("Customer Name : ",customer_name)
 
 print("Food Bill = ",food_bill)
 
