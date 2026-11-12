@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 Python Projects | Akhilesh P Thankachan
+# Python Development Portfolio | Akhilesh P Thankachan
 
 ### Practical Python • Automation Foundations • Business-Focused Programming
 
